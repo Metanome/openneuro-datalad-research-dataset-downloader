@@ -22,7 +22,7 @@ A complete, automated solution for downloading random subjects from OpenNeuro re
 
 ## ✨ Key Features
 
-### 🔀 **Flexible Dependency Management (NEW in v2.1)**
+### 🔀 **Flexible Dependency Management**
 - **Multiple installation options** for each dependency
 - **User choice** for installation methods (winget, manual, conda, etc.)
 - **No forced installations** - you control what gets installed
