@@ -10,7 +10,7 @@ A complete, automated solution for downloading random subjects from OpenNeuro re
 
 ---
 
-## 🎯 Perfect For Researchers Who Need
+## Perfect For Researchers Who Need
 
 - **Sample data for external validation** without downloading entire datasets
 - **Specific task data** (e.g., "EyesClosed", "RestingState", "n-back")
@@ -20,41 +20,41 @@ A complete, automated solution for downloading random subjects from OpenNeuro re
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🔀 **Flexible Dependency Management**
+### **Flexible Dependency Management**
 - **Multiple installation options** for each dependency
 - **User choice** for installation methods (winget, manual, conda, etc.)
 - **No forced installations** - you control what gets installed
 - **Smart detection** of existing software
 - **Graceful handling** of installation failures
 
-### 🛡️ **Virtual Environment Isolation**
+### **Virtual Environment Isolation**
 - Creates isolated Python environment (`openneuro_research_env`)
 - Installs DataLad and dependencies in isolation
 - **Keeps your system Python completely clean**
 - No package conflicts with existing installations
 - Easy to remove if needed
 
-### 🤖 **Smart Installation Options**
+### **Smart Installation Options**
 
 #### Python Installation Options:
-- ✅ Official Python installer (python.org)
-- ✅ Windows Package Manager (winget)
-- ✅ Miniconda/Anaconda (includes conda)
-- ✅ Manual installation (user choice)
+- Official Python installer (python.org)
+- Windows Package Manager (winget)
+- Miniconda/Anaconda (includes conda)
+- Manual installation (user choice)
 
 #### Git Installation Options:
-- ✅ Windows Package Manager (winget)
-- ✅ Git for Windows (git-scm.com)
-- ✅ Manual installation
+- Windows Package Manager (winget)
+- Git for Windows (git-scm.com)
+- Manual installation
 
 #### git-annex Installation Options:
-- ✅ Conda install (if conda available)
-- ✅ Standalone installer
-- ✅ Install Miniconda first, then git-annex
+- Conda install (if conda available)
+- Standalone installer
+- Install Miniconda first, then git-annex
 
-### 🎲 **Smart Data Sampling**
+### **Smart Data Sampling**
 - Downloads random subjects with your specified criteria
 - Task filtering for specific experimental conditions
 - Configurable subject counts and file types
@@ -62,7 +62,7 @@ A complete, automated solution for downloading random subjects from OpenNeuro re
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Simple One-Command Download
 ```powershell
