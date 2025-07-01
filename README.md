@@ -1,12 +1,12 @@
-# OpenNeuro DataLad Research Dataset Downloader v2.1
+# OpenNeuro Selective Downloader
 ### Universal Tool for Selective Neuroimaging Data Downloads with Flexible Dependencies
 
-[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/license/gpl-3-0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)](https://docs.microsoft.com/en-us/powershell/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
 
-A complete, automated solution for downloading random subjects from OpenNeuro research datasets without needing to download entire datasets (which can be 50GB+ and take hours). **Now with flexible dependency management and virtual environment isolation!**
+A complete, automated solution for downloading random subjects from OpenNeuro research datasets without needing to download entire datasets (which can be 50GB+ and take hours). Features flexible dependency management and virtual environment isolation to keep your system clean.
 
 ---
 
@@ -58,6 +58,7 @@ A complete, automated solution for downloading random subjects from OpenNeuro re
 - Downloads random subjects with your specified criteria
 - Task filtering for specific experimental conditions
 - Configurable subject counts and file types
+- Preserves original OpenNeuro BIDS filenames for traceability
 
 ---
 
